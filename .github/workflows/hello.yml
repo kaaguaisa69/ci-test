@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Echo the message
         run: |
-          echo "Hola JUan!"
-      - name: Dime la fecha
+          echo "Hola somos Kevin y Bryan!"
+      - name: Dime la fecha porfi
         run: date
       - run: ls -l
